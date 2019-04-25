@@ -1,4 +1,4 @@
-# otus-module1-ip-filter
+# otus-module1-allocator
 
 OTUS modile 1 homework 3 - _allocator_
 
