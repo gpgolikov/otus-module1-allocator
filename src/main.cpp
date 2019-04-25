@@ -38,6 +38,7 @@ int main() {
     fill(map_alloc_arena);
     copy(begin(map_alloc_arena), end(map_alloc_arena),
             ostream_iterator<pair<const int, int>>(cout, "\n"));
+    flush(cout);
 
     bidirectional_list<int> blist;
     fill(blist);
